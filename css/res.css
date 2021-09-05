@@ -1,0 +1,403 @@
+@media (min-width: 320px) and (max-width: 575px) { 
+
+.ban-content{
+	
+	padding-bottom:60px;
+}
+.ban-content h1{
+	font-size: 30px;
+	font-weight: 700;
+	margin-top: -90px;
+}
+.ban-content p{
+	font-size: 13px;
+	margin-top: 25px;
+
+}
+.navbar-brand img{
+	width: 100px;
+ }
+ #header .navbar{
+	height: 60px;
+	background-color: #0000;
+	line-height: 60px;
+	margin-top: -30px;
+}
+.navbar{
+	padding-top: 0px;
+}
+.bg-dark {
+    background-color: #ccc !important;
+}
+.about-con h2{
+	font-size: 25px;
+
+}
+.about-con p{
+	font-size: 16px;
+	margin-top: 15px;
+	margin-bottom: 40px;
+	color: #757575;
+}
+.about-con .btn-1{
+	padding: 5px 10px;
+	background: #000;
+	display: inline-block;
+	color: yellow;
+}
+.about-con .btn-2{
+	padding: 5px 5px;
+	background: yellow;
+	display: inline-block;
+	color: #000;
+	
+}
+
+.ano-hed h3{
+	font-size: 20px;
+	margin-top: 80px;
+	
+}
+.counting{
+	margin-top: 55px;
+	text-align: center;
+}
+.main-res{
+	margin-top: -160px;
+	text-align: center;
+}
+.heading h4{
+	font-size: 25px;
+	font-weight: 700;
+	margin-bottom: 35px;
+
+}
+.heading p{
+	margin-bottom: 45px;
+}
+.who-log img{
+	margin-top:0px;
+}
+.who-writ h2{
+	color: #fff;
+	font-size: 25px;
+	font-weight: 500;
+	margin-top: 40px;
+	margin-bottom: 35px;
+}
+.who-writ p{
+	color: #fff;
+	margin-bottom: 70px;
+}
+.btn-11{
+	padding: 5px 10px;
+	background: transparent;
+	color:#ffff;
+	display: inline-block;
+	border:1px solid #fff;
+	transition: 0.3s;
+}
+.btn-22{
+	padding: 5px 10px;
+	background: yellow;
+	color:#000;
+	display: inline-block;
+	transition: 0.3s;
+}
+.item-b{
+	text-align: center;
+}
+.item-b ul li{
+	margin-right: 10px;
+	margin-left: 10px;
+	color: #000;
+	padding: 0px 5px;
+	border-radius: 10px;
+	cursor: pointer;
+	background: transparent;
+	border:1px solid #000;transition: 0.3s;
+}
+.ser-img img{
+	width: 100%;
+}
+#SERVICE{
+	margin-top:100px;
+}
+.serrr{
+	text-align:center;
+}
+.small-ser{
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.ml-20{
+	margin-right: 0px;
+	margin-top: 20px;
+	border-bottom: 1px solid #000;
+	border-right: 0px solid #000;
+}
+#price{
+	background-image: url(../img/holod.jpg);
+	margin-top:105px;
+}
+.romi{
+	margin-top: 35px;
+	margin-bottom: 35px;
+}
+.btn-con h3{
+	color: #fff;
+	font-size: 25px;
+	font-weight: 700;
+	margin-bottom: 15px;
+}
+.btn-con p{
+	color: #fff;
+	font-size: 14px;
+	margin-bottom: 50px;
+}
+.btn-111{
+	padding: 5px 10px;
+	background: yellow;
+	color:#000000;
+	display: inline-block;
+	margin-right: 5px;
+	transition: 0.3s;
+}
+.btn-222{
+	padding: 5px 10px;
+	background: #fff;
+	color:#000;
+	display: inline-block;
+	margin-left: 5px;
+	transition: 0.3s;
+}
+.main-blog{
+	margin-bottom: 60px;
+}
+.con-pad{
+	padding:120px 0px;
+}
+.con-hd{
+	text-align: center;
+	margin-bottom: 70px;
+}
+#contact{
+	margin-top: -100px;
+}
+.con-name{
+	
+	display: block;
+	margin-bottom: 10px;
+
+	outline: none;
+
+}
+.con-name .rabby{
+	margin-bottom: 10px;
+	box-sizing: border-box;
+}
+.navbar-expand-lg .navbar-nav .nav-link{
+	padding: 0;
+	margin-left: 20px;
+	color: #f00;
+	transition: all 0.3s;
+}
+.about-likha{
+	text-align: center;
+}
+.about-box{
+	margin-left: 50%;
+	transform: translateX(-50%);
+}
+}
+
+@media (min-width: 576px) and (max-width: 767px) { 
+	.ban-content{
+	
+	padding-bottom:80px;
+}
+.ban-content h1{
+	font-size: 40px;
+	font-weight: 700;
+	margin-top: -90px;
+}
+.ban-content p{
+	font-size: 13px;
+	margin-top: 25px;
+
+}
+.navbar-brand img{
+	width: 130px;
+ }
+ #header .navbar{
+	height: 60px;
+	background-color: #0000;
+	line-height: 60px;
+	margin-top: -30px;
+}
+.navbar{
+	padding-top: 0px;
+}
+
+.about-likha{
+	text-align: center;
+}
+.about-box{
+	margin-left: 50%;
+	transform: translateX(-50%);
+}
+.bg-dark {
+    background-color: #ccc !important;
+}
+.counting{
+	margin-top: 55px;
+	text-align: center;
+}
+.main-res{
+	margin-top: -280px;
+	text-align: center;
+}
+#SERVICE{
+	margin-top:100px;
+}
+.serrr{
+	text-align:center;
+	font-size: 30px;
+	margin-bottom: 30px;
+}
+.small-ser{
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.ml-20{
+	margin-right: 0px;
+	margin-top: 20px;
+	border-bottom: 1px solid #000;
+	border-right: 0px solid #000;
+}
+#price{
+	background-image: url(../img/holod.jpg);
+	margin-top:105px;
+}
+.romi{
+	margin-top: 35px;
+	margin-bottom: 35px;
+}
+.ex-hedi{
+	background: #ebebeb;
+	width: 100%;
+	margin-top: 5px;
+}
+.strt-img img{
+	width: 100%;
+}
+.con-hd{
+	text-align: center;
+	margin-bottom: 70px;
+}
+#contact{
+	margin-top: -100px;
+}
+.main-blog{
+	margin-bottom: 60px;
+}
+}
+
+
+@media (min-width: 768px) and (max-width: 991px) { 
+.navbar-brand img{
+	width: 160px;
+ }
+ #header .navbar{
+	height: 60px;
+	background-color: #0000;
+	line-height: 60px;
+	margin-top: -30px;
+}
+.navbar{
+	padding-top: 0px;
+}
+.bg-dark {
+    background-color: #ccc !important;
+}
+.about-box{
+	background: black;
+	padding: 20px;
+	width: 180px;
+	height: 410px;
+	position: relative;
+	box-sizing: border-box;
+	transition: all .3s;
+	margin-top: 70px;
+}
+.about-likha h6{
+	font-size: 24px;
+	color: #fff;
+	margin-top: 20px;
+}
+.about-likha img{
+	margin-top: 20px;
+	width: 70px;
+
+}
+#SERVICE{
+	margin-top:100px;
+}
+.main-serll .col-md-6{
+	
+}
+.small-ser {
+ text-align: center;
+}
+#price{
+	background-image: url(../img/holod.jpg);
+	margin-top: 155px;
+}
+.price-lik{
+	width: 100%;
+	height: 600px;
+	background: #fff;
+	padding: 5px;
+	text-align: center;
+}
+.p-overlay h2{
+	position: relative;
+	margin-left: 20px;
+	margin-top: 8px;
+	margin-bottom: 10px;
+}
+ }
+
+
+@media (min-width: 992px) and (max-width: 1199px) { 
+
+.about-box{
+	background: black;
+	padding: 20px;
+	width: 220px;
+	height: 360px;
+	position: relative;
+	box-sizing: border-box;
+	transition: all .3s;
+	margin-top: 70px;
+}
+.about-likha img{
+	margin-top: 20px;
+	width: 70px;
+}
+#SERVICE{
+	margin-top:90px;
+}
+.small-ser {
+ text-align: center;
+}
+#price{
+	background-image: url(../img/holod.jpg);
+	margin-top: 25px;
+}
+ }
+
+
+@media (min-width: 1200px) and (max-width: 1399.98px) { ... }
